@@ -1,0 +1,7 @@
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\bin\Debug\netcoreapp3.1\AOM.Customer.Domain.deps.json
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\bin\Debug\netcoreapp3.1\AOM.Customer.Domain.dll
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\bin\Debug\netcoreapp3.1\AOM.Customer.Domain.pdb
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\obj\Debug\netcoreapp3.1\AOM.Customer.Domain.AssemblyInfoInputs.cache
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\obj\Debug\netcoreapp3.1\AOM.Customer.Domain.AssemblyInfo.cs
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\obj\Debug\netcoreapp3.1\AOM.Customer.Domain.dll
+C:\Users\adhan\OneDrive\Documents\aomgit\service.eventsourcing\AOM.EventSourcing\AOM.Customer.Domain\obj\Debug\netcoreapp3.1\AOM.Customer.Domain.pdb

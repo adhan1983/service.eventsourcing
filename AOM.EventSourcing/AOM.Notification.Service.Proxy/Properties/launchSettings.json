@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AOM.Notification.Service.Proxy": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "RABBITCONNECTION": "host=127.0.0.1"
+      }
+    }
+  }
+}
